@@ -15,7 +15,7 @@ The results is a comparison between global and local average yearly temperatures
 results.csv (consisting of three columns: year, avg_temp_oslo, avg_temp_globally)
 
 ### Output
-The output is found in the file 'Project_Explore_Weather_Trends', where you will find:
+The output is found in the file 'Project_Explore_Weather_Trends.pdf', where you will find:
 - Outline of steps taken to prepare the data to be visualized
 - Visualization
 - Observations
