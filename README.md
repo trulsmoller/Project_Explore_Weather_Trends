@@ -11,6 +11,8 @@ It's a mini project that can't be replicated easily, it's just a display of resu
 
 The results is a comparison between global and local average yearly temperatures. The local position is Oslo, Norway.
 
+Please check out the pdf file for the findings!
+
 ### Files used
 results.csv (consisting of three columns: year, avg_temp_oslo, avg_temp_globally)
 
